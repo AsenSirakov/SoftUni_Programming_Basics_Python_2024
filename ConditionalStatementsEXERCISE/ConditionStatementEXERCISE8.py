@@ -13,4 +13,3 @@ if freetime >= duration_episode:
 else:
     needed_time = math.ceil(duration_episode - freetime)
     print(f"You don't have enough time to watch {series_name}, you need {needed_time} more minutes.")
-    
