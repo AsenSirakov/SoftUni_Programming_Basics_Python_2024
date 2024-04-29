@@ -1,4 +1,4 @@
-mport turtle
+import turtle
 
 
 def update_score(l_score, r_score, player, score_board):
