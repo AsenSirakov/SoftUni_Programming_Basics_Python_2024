@@ -35,3 +35,4 @@ class game_of_life:
                 # Rule 4
                 if copy_board[row][col] == 0 and live_neighbors == 3:
                     board[row][col] = 1
+                    
